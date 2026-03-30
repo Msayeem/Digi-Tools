@@ -8,7 +8,7 @@
     "tag": "Best Seller",
     "tagType": "best-seller",
     "features": ["Unlimited AI generations", "50+ writing templates", "Grammar checker"],
-    "icon": "../assets/products/writing_2327400 1.png"
+    "icon": "products/writing_2327400 1.png"
   },
   {
     "id": 2,
@@ -19,7 +19,7 @@
     "tag": "Popular",
     "tagType": "popular",
     "features": ["2000+ templates", "Monthly updates", "Commercial license"],
-    "icon": "../assets/products/design-tool.png"
+    "icon": "products/design-tool.png"
   },
   {
     "id": 3,
@@ -30,7 +30,7 @@
     "tag": "New",
     "tagType": "new",
     "features": ["10M+ assets", "Commercial use", "No-attribution required"],
-    "icon": "../assets/products/camera_8775444 1.png"
+    "icon": "products/camera_8775444 1.png"
   },
   {
     "id": 4,
@@ -41,7 +41,7 @@
     "tag": "Popular",
     "tagType": "popular",
     "features": ["50+ automations", "API access", "Custom workflows"],
-    "icon": "../assets/products/operation.png"
+    "icon": "products/operation.png"
   },
   {
     "id": 5,
@@ -52,7 +52,7 @@
     "tag": "New",
     "tagType": "new",
     "features": ["100+ templates", "ATS optimization", "Export to PDF"],
-    "icon": "../assets/products/portfolio.png"
+    "icon": "products/portfolio.png"
   },
   {
     "id": 6,
@@ -63,7 +63,7 @@
     "tag": "Best Seller",
     "tagType": "best-seller",
     "features": ["5000+ assets", "Scheduler included", "Analytics dashboard"],
-    "icon": "../assets/products/social-media.png"
+    "icon": "products/social-media.png"
   }
   
 ]
