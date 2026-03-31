@@ -28,7 +28,7 @@ const Cart = ({ product, setProduct }) => {
           {product.map((item) => (
             <div 
               key={item.id} // Added unique key
-              className='border-2 border-purple-400 hover:px-6 transition-[0.35s] md:p-5 p-3 rounded-3xl flex  items-center justify-between'
+              className='border-2 border-purple-400 hover:px-6 transition-[0.35s] md:p-5 p-3 rounded-3xl flex gap-3 items-center justify-between'
             >
               <div className='flex items-center gap-3'>
                 <div className="w-16 h-16 flex items-center justify-center">
