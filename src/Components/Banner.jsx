@@ -5,7 +5,7 @@ import i3 from '../../assets/products/banner.png';
 
 const Banner = () => {
     return (
-        <div className='md:w-[80%] w-[90%] py-20 mx-auto flex justify-between items-center lg:gap-0 gap-10 md:flex-row flex-col'>
+        <div className='md:w-[80%] w-[90%] py-20 mx-auto flex justify-between items-center lg:gap-0 gap-10 lg:flex-row flex-col'>
             <div className='space-y-4'>
                 <p className='bg-[#E1E7FF] w-[294px] py-[8px] px-[16px] rounded-3xl flex items-center gap-1  text-purple-700 font-medium text-[16px]'><img className='' src={i1} alt="" /> New: AI-Powered Tools Available</p>
             <h1 className='font-extrabold md:text-6xl text-4xl'>Supercharge Your <br/> Digital Workflow</h1>
