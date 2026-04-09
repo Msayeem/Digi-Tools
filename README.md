@@ -1,47 +1,59 @@
-Project Name: Digi-Tools
+# Digi-Tools
 
-Live link: https://msayeem.github.io/Digi-Tools/
+**A sleek marketplace connecting users with digital professionals.**
 
-Project Description:
+Digi-Tools is a service-oriented platform built with React that makes it easy to discover, filter, and book specialized digital services. The interface is designed to be human-centric — putting clarity and simplicity first so users can find what they need without friction.
 
-Digi-Tools is a sleek, service-oriented marketplace designed to connect users with digital professionals. The platform focuses on a clean, "human-centric" UI that simplifies the process of discovering, filtering, and booking specialized services through an intuitive, responsive interface.
+🔗 **Live Site:** [msayeem.github.io/Digi-Tools](https://msayeem.github.io/Digi-Tools/)
 
-🌐 Technologies Used:
+---
 
-• React.js
+## Features
 
-• Tailwind CSS, DaisyUI
+**Dynamic Service Discovery**
+An integrated filtering system lets users instantly categorize and browse digital services by type, making it easy to zero in on exactly what they need.
 
-• JavaScript (ES6+)
+**Streamlined Booking Workflow**
+A centralized management interface tracks service appointments and user interactions in one place, simplifying the entire booking process from start to finish.
 
-• React-Toastify (NPM Package)
+**Fully Responsive Design**
+Built mobile-first with Tailwind CSS and DaisyUI, the layout adapts seamlessly across all screen sizes for a consistent experience on any device.
 
-• JSON (for product data)
+---
 
-🚀 Key Features:
+## Tech Stack
 
-1. Dynamic Service Discovery: An integrated filtering system that allows users to instantly categorize and find specific digital tools or professional services.
+| Technology | Purpose |
+|---|---|
+| React.js | UI framework |
+| Tailwind CSS + DaisyUI | Styling and components |
+| JavaScript (ES6+) | Application logic |
+| React-Toastify | Notifications |
+| JSON | Local data source |
 
-2. Streamlined Booking Workflow: A functional management interface that tracks service appointments and user interactions in one centralized dashboard.
+---
 
-3. Adaptive Design: A fully responsive layout that ensures a seamless, high-performance experience across all devices.
+## Getting Started
 
-🛠️ Installation & Local Setup:
+### Prerequisites
 
-1. Clone the Repository
+- [Node.js](https://nodejs.org/) v18 or higher
+- npm (included with Node.js)
 
-https://github.com/Msayeem/Digi-Tools.git
+### Installation
 
-2. Navigate to the Folder:
+```bash
+# 1. Clone the repository
+git clone https://github.com/Msayeem/Digi-Tools.git
 
+# 2. Navigate into the project folder
 cd Digi-Tools
 
-3. Install Dependencies:
-
+# 3. Install dependencies
 npm install
 
-4. Start the Development Server:
-
+# 4. Start the development server
 npm run dev
+```
 
-Once started, open the local link provided in your terminal (usually http://localhost:5173) to view the app.
+Open the local URL shown in your terminal — typically `http://localhost:5173`.
