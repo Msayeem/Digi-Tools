@@ -10,13 +10,13 @@ Digi-Tools is a service-oriented platform built with React that makes it easy to
 
 ## Features
 
-**Dynamic Service Discovery**
+**1. Dynamic Service Discovery:**
 An integrated filtering system lets users instantly categorize and browse digital services by type, making it easy to zero in on exactly what they need.
 
-**Streamlined Booking Workflow**
+**2. Streamlined Booking Workflow**
 A centralized management interface tracks service appointments and user interactions in one place, simplifying the entire booking process from start to finish.
 
-**Fully Responsive Design**
+**3. Fully Responsive Design**
 Built mobile-first with Tailwind CSS and DaisyUI, the layout adapts seamlessly across all screen sizes for a consistent experience on any device.
 
 ---
