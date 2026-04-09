@@ -30,7 +30,7 @@ const Mid3 = () => {
             </div>
 
             <div className='relative rounded-3xl p-5 space-y-5 bg-gradient-to-r from-[#4F39F6] to-[#9514FA] '>
-            <span className='px-3 py-1 rounded-full -top-4 left-25  md:left-33 text-[#BB4D00] bg-[#FEF3C6] text-[16px] font-medium absolute'>Most Popular</span>
+            <span className='px-3 py-1 rounded-full -top-4 left-1/2 -translate-x-1/2  text-[#BB4D00] bg-[#FEF3C6] text-[16px] font-medium absolute'>Most Popular</span>
                 <div className=''>
                     <h1 className='font-bold text-2xl text-white'>Pro</h1>
                 <p className='text-[18px] text-white'>Best for professionals</p>
